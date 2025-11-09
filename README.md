@@ -50,6 +50,6 @@ git clone https://github.com/IrvinBarham1/comptia-cysa-plus.git
 
 Navigate into any lab and run it:
 ```bash
-cd general-security-concepts\lab-1-4-cryptographic-solutions\python
+cd security-operations\lab-1-1-network-architecture\python
 py lab.py  
 ```         
