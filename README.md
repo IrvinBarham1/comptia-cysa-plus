@@ -3,6 +3,7 @@
 These are my own coding and analysis exercises developed to help prepare for the **CompTIA CySA+ (CS0-003)** certification exam.
 
 Each lab is a practical, code-driven exercise that translates CySA+ exam objectives into hands-on cybersecurity workflows.  
+
 This approach reinforces my preparation while demonstrating applied **threat detection, incident response, and vulnerability management** skills.
 
 ---
